@@ -33,6 +33,5 @@ public class Employees extends showroom implements utility{
         System.out.print("SHOWROOM NAME: ");
         showroom_name = sc.nextLine();
 
-
     }
 }
